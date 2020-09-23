@@ -1,0 +1,76 @@
+15
+##Name House
+##XPos 23
+##YPos 30
+##Key 1
+##KName General Key
+##Name Governers House
+##XPos 25
+##YPos 37
+##Key 1
+##KName General Key
+##Name Shop
+##XPos 34
+##YPos 38
+##Key 1
+##KName General Key
+##Name House
+##XPos 24
+##YPos 7
+##Key 1
+##KName General Key
+##Name Inn
+##XPos 34
+##YPos 29
+##Key 1
+##KName General Key
+##Name Inn
+##XPos 15
+##YPos 89
+##Key 1
+##KName General Key
+##Name Estate Agent
+##XPos 15
+##YPos 85
+##Key 1
+##KName General Key
+##Name Small Hut
+##XPos 19
+##YPos 87
+##Key 1
+##KName General Key
+##Name Property 1
+##XPos 25
+##YPos 89
+##Key 27001
+##KName Property 1 Key
+##Name Property 2
+##XPos 34
+##YPos 89
+##Key 27002
+##KName Property 2 Key
+##Name Property 3
+##XPos 25
+##YPos 96
+##Key 27003
+##KName Property 3 Key
+##Name Property 4
+##XPos 34
+##YPos 94
+##Key 27004
+##KName Property 4 Key
+##Name Property 5
+##XPos 34
+##YPos 98
+##Key 27005
+##KName Property 5 Key
+##Name Farmers House
+##XPos 5
+##YPos 55
+##Key 1
+##KName General Key
+##Name Castle1
+##XPos 36
+##YPos 78
+##Key 1
+##KName General Key
